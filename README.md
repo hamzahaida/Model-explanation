@@ -1,5 +1,8 @@
 # Model-explanation
 
+# slide 
+https://drive.google.com/open?id=1EhtlPpZXMHBQTnLBde44Aqp4pKAIFVSD
+
 ## Istruzioni setup :
  
 con Anaconda:
