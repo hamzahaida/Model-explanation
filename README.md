@@ -1,6 +1,6 @@
 # Model-explanation
 
-## istruzioni setup :
+## Istruzioni setup :
  
 con Anaconda:
 
